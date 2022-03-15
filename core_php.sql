@@ -51,9 +51,7 @@ CREATE TABLE `tbl_student` (
 --
 
 INSERT INTO `tbl_student` (`id`, `name`, `dept`, `age`) VALUES
-(1, 'RMR', 'CSE', 25),
-(2, 'Salma', 'Physics', 0),
-(3, 'Jarin', 'Architecture', 0);
+(1, 'RMR', 'CSE', 25);
 
 --
 -- Indexes for dumped tables
